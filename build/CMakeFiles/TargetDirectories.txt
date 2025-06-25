@@ -1,0 +1,4 @@
+/mnt/c/Users/linyu/OneDrive/文档/uiuc/othercode/chebyshevball evaluation project/build/CMakeFiles/lp_solve.dir
+/mnt/c/Users/linyu/OneDrive/文档/uiuc/othercode/chebyshevball evaluation project/build/CMakeFiles/main.dir
+/mnt/c/Users/linyu/OneDrive/文档/uiuc/othercode/chebyshevball evaluation project/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/linyu/OneDrive/文档/uiuc/othercode/chebyshevball evaluation project/build/CMakeFiles/rebuild_cache.dir
