@@ -117,7 +117,11 @@ add_executable(main
     src/metrics.cpp
 )
 
-target_link_libraries(main 
+#——————for parallel programming in coreset + primitive_move method——————
+target_compile_options(main PRIVATE -fopenmp)
+target_link_libraries(main PRIVATE gomp)
+
+target_link_libraries(main PRIVATE
     lp_solve
     ${GLPK_LIBRARY}
     ${MOSEK_LIB}
